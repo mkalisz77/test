@@ -3,3 +3,5 @@ x3
 dodane w github
 
 i w gałęzi master
+
+zmiana
